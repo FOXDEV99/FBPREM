@@ -1,5 +1,6 @@
 # TOOLS CRACK FACEBOOK PREMIUM
-## PERINTAH
+### INSTALL ON TERMUX!
+#### PERINTAH
 ```
 pkg update && pkg upgrade
 pkg install python
