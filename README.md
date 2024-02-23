@@ -4,6 +4,8 @@
 pkg update && pkg upgrade
 pkg install python
 pkg install git
+pkg install figlet
+pkg install lolcat
 pip install bs4
 pip install rich
 pip install mechanize
